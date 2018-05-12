@@ -1,0 +1,37 @@
+_repo: K-l-nf-le-magyarok-meg-egy-b-n-pek_27546
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tömörkény, István
+    aliases:
+    - Tomorkeny, Istvan
+    - István Tömörkény
+    birthdate: 1866
+    deathdate: 1917
+    gutenberg_agent_id: '32758'
+    url: http://www.gutenberg.org/2009/agents/32758
+    wikipedia: http://hu.wikipedia.org/wiki/T%C3%B6m%C3%B6rk%C3%A9ny_Istv%C3%A1n
+description: ''
+gutenberg_issued: '2008-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27546'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcsh 'Short stories, Hungarian'
+- !lcc 'PH'
+tableOfContents: Egy lóhalál s egy más ló megvételének körülményei -- Parádé -- János
+  megjátsza magát -- A hajókifúrás nem elégtétel -- Ifijúr -- A duttyán -- Főtárgyaláson
+  -- Jánosok -- A roham -- Albán csárda -- Az utolsó -- Öreg embör napáldozatja --
+  Vidám magyarok -- Délután -- Időn túl -- A vízityúkok, Izmail bég s egyebek -- A
+  vályú -- Dugott bál -- A Holló meg a Hattyú -- Az okos Miklósról -- Lókötés akadályokkal
+  -- Tor.
+title: Különféle magyarok meg egyéb népek
+url: http://www.gutenberg.org/ebooks/27546
